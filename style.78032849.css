@@ -961,7 +961,7 @@
             }
 
     .what__wrapper-icon-mob {
-            background-image: url('/icon_mobile.bd9a9492.svg');
+            background-image: url('icon_mobile.bd9a9492.svg');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
@@ -979,7 +979,7 @@
             }
 
     .what__wrapper-icon-mens {
-            background-image: url('/icon_mens.f94d1501.svg');
+            background-image: url('icon_mens.f94d1501.svg');
             background-repeat: no-repeat;
             background-position: center;
             background-size: contain;
@@ -989,7 +989,7 @@
         }
 
     .what__wrapper-icon-puzzle {
-            background-image: url('/icon_puzzle.435cd6c9.svg');
+            background-image: url('icon_puzzle.435cd6c9.svg');
             background-repeat: no-repeat;
             background-position: center;
             background-size: cover;
@@ -1169,7 +1169,7 @@
         }
 
     .offer__wrapper-icon-key{
-            background-image: url('/icon_key.116d8ef3.png');
+            background-image: url('icon_key.116d8ef3.png');
             background-repeat: no-repeat;
             background-position: center;
             width: 86px;
@@ -1185,7 +1185,7 @@
             }
 
     .offer__wrapper-icon-bag{
-            background-image: url('/icon_bag.d4445ad3.png');
+            background-image: url('icon_bag.d4445ad3.png');
             background-repeat: no-repeat;
             background-position: center;
             max-width: 260px;
@@ -1194,7 +1194,7 @@
         }
 
     .offer__wrapper-icon-hammer {
-            background-image: url('/icon_hammer.e86fe509.png');
+            background-image: url('icon_hammer.e86fe509.png');
             background-repeat: no-repeat;
             background-position: center;
             width: 108px;
